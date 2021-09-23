@@ -17,3 +17,8 @@
 |---| --------|---|--------|----|
 |1|Когда нажат флажок увидим как наш котик и медведь ходят на белом фоне.| ![image](https://user-images.githubusercontent.com/90557670/134551737-0c8e0131-0b1f-443c-bc8c-eaad8c2e53a1.png)|![image](https://user-images.githubusercontent.com/90557670/134553432-2f960cde-f2af-4ff5-9bb0-2709b2aee734.png)|![image](https://user-images.githubusercontent.com/90557670/134552898-010e70dc-3f63-4d74-8faf-787168521401.png)|
 
+Добавление фона.
+
+| № | Описание|Код|Персонаж|Поле|
+|---| --------|---|--------|----|
+|1|Для того, чтобы добавить фон зайдем в блок добавление фона.|![image](https://user-images.githubusercontent.com/90557670/134554439-331d65da-ff53-4da7-ae82-e28789244dfe.png)|![image](https://user-images.githubusercontent.com/90557670/134554681-16afed1b-42b7-448b-8855-2cb031994800.png)|![image](https://user-images.githubusercontent.com/90557670/134554918-b6b726b3-f24f-4514-ba83-f13861278c4d.png)|
