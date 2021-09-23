@@ -21,4 +21,4 @@
 
 | № | Описание|Код|Персонаж|Поле|
 |---| --------|---|--------|----|
-|1|Для того, чтобы добавить фон зайдем в блок добавление фона.|![image](https://user-images.githubusercontent.com/90557670/134554439-331d65da-ff53-4da7-ae82-e28789244dfe.png)|![image](https://user-images.githubusercontent.com/90557670/134554681-16afed1b-42b7-448b-8855-2cb031994800.png)|![image](https://user-images.githubusercontent.com/90557670/134554918-b6b726b3-f24f-4514-ba83-f13861278c4d.png)|
+|1|Для того, чтобы добавить фон зайдем в блок добавление фона.|![image](https://user-images.githubusercontent.com/90557670/134554439-331d65da-ff53-4da7-ae82-e28789244dfe.png)|![image](https://user-images.githubusercontent.com/90557670/134554681-16afed1b-42b7-448b-8855-2cb031994800.png)|![image](https://user-images.githubusercontent.com/90557670/134555338-a0fa19a0-0e99-443d-8cbf-7ef2865aa33b.png)|
