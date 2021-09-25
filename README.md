@@ -2,7 +2,7 @@
 
 | № | Описание|Действие|Поле|
 |---| --------|--------|----|
-|1|Для этого в блоке управления персонажем добавим новый спрайт (персонаж).|![image](https://user-images.githubusercontent.com/90557670/134774754-9fa2ff00-627a-410b-ac5c-ca2c001e273b.png)|![image](https://user-images.githubusercontent.com/90557670/134774780-bd09ceaf-1a1f-43cc-a375-1df66432dc4b.png)|
+|1| 1. Для этого в блоке управления персонажем добавим новый спрайт (персонаж). 2. Выберем персонажа, которого мы хотим.|![image](https://user-images.githubusercontent.com/90557670/134774754-9fa2ff00-627a-410b-ac5c-ca2c001e273b.png)|![image](https://user-images.githubusercontent.com/90557670/134774780-bd09ceaf-1a1f-43cc-a375-1df66432dc4b.png)|
 
 
 Добавим медведю код, аналогичный тому, который мы добавляли котику
@@ -19,6 +19,7 @@
 
 Добавление фона.
 
-| № | Описание|Код|Персонаж|Поле|
-|---| --------|---|--------|----|
-|1|Для того, чтобы добавить фон зайдем в блок добавление фона.|![image](https://user-images.githubusercontent.com/90557670/134554439-331d65da-ff53-4da7-ae82-e28789244dfe.png)|![image](https://user-images.githubusercontent.com/90557670/134554681-16afed1b-42b7-448b-8855-2cb031994800.png)|![image](https://user-images.githubusercontent.com/90557670/134555338-a0fa19a0-0e99-443d-8cbf-7ef2865aa33b.png)|
+| № | Описание|Действие|Поле|
+|---| --------|--------|----|
+|1|1.Для того, чтобы добавить фон зайдем в блок добавление фона. 2. Выберем желаемый нам фон, и нажмем на него. |![image](https://user-images.githubusercontent.com/90557670/134775295-ae6ead4e-49cb-42bb-92bc-79fa9cc95091.png)|![image](https://user-images.githubusercontent.com/90557670/134775257-c4159a64-753e-4843-9694-cfc64b3abf01.png)|
+
